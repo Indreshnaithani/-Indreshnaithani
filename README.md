@@ -9,6 +9,8 @@ Results-driven finance professional with 3 years of analyst experience, offering
 * 🌍  I'm based in Arizona
 * ✉️  You can contact me at [Indreshnaithani40@gmail.com](mailto:Indreshnaithani40@gmail.com)
 * 🤝  I'm open to collaborating on Finance based projects
+* 🧠 My Core Competencies are Portfolio Management, Equity Research, Financial Modeling, DCF Valuation, Technical Analysis, Financial Planning & Analysis, Options Strategies
+* 🖥️ Technical Skills are Microsoft Excel, Microsoft PowerPoint, VBA, Macros, Alteryx, Python, SAP, Tagetik, Tableau, Power BI & Bloomberg Terminal
 
 ### Skills
 
