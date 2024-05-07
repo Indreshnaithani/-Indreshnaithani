@@ -1,7 +1,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Indresh Naithani
 ========================================================================================================================================
 
-Master's in Finance (STEM) - ASU'24 | Financial Planning & Analysis (BNP Paribas) | MBA (IB) - KJ SIM'20
+Master's in Finance - ASU'24 | Financial Planning & Analysis (BNP Paribas) | MBA - KJ SIM'20
 --------------------------------------------------------------------------------------------------------
 
 Results-driven finance professional with 3 years of analyst experience, offering strong analytical skills and adaptability. Eager to contribute adept valuation and analytics expertise to a forward-thinking organization, committed to impactful data-backed decision-making and collaborative problem-solving in finance.
