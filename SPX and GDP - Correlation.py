@@ -16,15 +16,12 @@ import yfinance as yf
 import matplotlib.pyplot as plt
 
 
-api_key = '05aa295724f5f9446dbb7a62f88c25aa'
+api_key = '#alphanumeric numbers'
 from fredapi import Fred
 fred = Fred(api_key=api_key)
 
-#get data on GDP from fred and filter from 1985 onwards.
-#spx data is only available from 1985 onwards in yahoo finance
 gdp = fred.get_series('GDP')['1985':]
 
-#yahoo finance chosen for spx as it  provides an option for 1 month without need of data engineering
 spx = yf.Ticker('^SPX')
 spx = spx.history(start = '1985-01-01', interval = '1mo')['Close']
 
